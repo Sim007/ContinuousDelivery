@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T08:00:09.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Of-pyRg4Ywn2CvJ2_JEJ" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T08:10:12.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="YiIQVV7a3TD25TwZIigs" version="14.9.4" type="github">
   <diagram id="kgnJdq5VQi98LMx4Vff6" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,8 +78,8 @@
         <mxCell id="YMthBukLCyZc6VyMMKoa-7" value="Why" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="210" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YMthBukLCyZc6VyMMKoa-12" value="Continuous learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="360" y="720" width="710" height="30" as="geometry" />
+        <mxCell id="YMthBukLCyZc6VyMMKoa-12" value="Continuous Everything" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YMthBukLCyZc6VyMMKoa-19" value="principles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="375" width="120" height="30" as="geometry" />
@@ -111,8 +111,14 @@
         <mxCell id="YMthBukLCyZc6VyMMKoa-51" value="Customer first" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=14;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="570" y="190" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YMthBukLCyZc6VyMMKoa-52" value="Done= production" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=14;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="YMthBukLCyZc6VyMMKoa-52" value="Done= Production" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=14;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="750" y="190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMthBukLCyZc6VyMMKoa-54" value="Think Big - Act Small" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="600" y="720" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMthBukLCyZc6VyMMKoa-55" value="Agile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="850" y="720" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
