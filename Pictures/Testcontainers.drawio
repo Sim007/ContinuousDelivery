@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T15:14:41.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1rDWBB0XQna_odQ8tg6K" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T15:15:51.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hodEnDQixH4Ibu4P2gu-" version="15.5.6" type="github">
   <diagram id="0yy8EXLkq8YyQuRQiSqO" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7uKGe8dXWOPL08wrU0GV-45" value="SVM_ADMIN" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=12;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="550" y="220" width="580" height="370" as="geometry" />
+          <mxGeometry x="510" y="220" width="620" height="370" as="geometry" />
         </mxCell>
         <mxCell id="7uKGe8dXWOPL08wrU0GV-42" value="SVM_CI" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=12;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="260" y="220" width="220" height="370" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="220" width="150" height="370" as="geometry" />
         </mxCell>
         <mxCell id="7uKGe8dXWOPL08wrU0GV-1" value="Smoke testcontainers" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="728" width="140" height="90" as="geometry" />
+          <mxGeometry x="40" y="721" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7uKGe8dXWOPL08wrU0GV-2" value="Johannes Sim" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7uKGe8dXWOPL08wrU0GV-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
