@@ -1,2 +1,24 @@
+# Gebouwde site
 site/
+
+# Geheimen en lokale instellingen — nooit committen
+.env
+.env.*
+!.env.example
+
+# Python
 __pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Caches
+.cache/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
