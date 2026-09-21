@@ -1,19 +1,17 @@
 # Gebouwde site
-site/
+dist/
+
+# Afhankelijkheden en gegenereerde types
+node_modules/
+.astro/
 
 # Geheimen en lokale instellingen — nooit committen
 .env
 .env.*
 !.env.example
 
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-
-# Caches
-.cache/
+# Logs
+npm-debug.log*
 
 # macOS
 .DS_Store

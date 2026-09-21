@@ -15,14 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
+      - uses: actions/setup-node@v7
         with:
-          python-version: "3.12"
-      - run: pip install -r requirements.txt
-      - run: mkdocs build
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npm run build
       - uses: actions/upload-pages-artifact@v5
         with:
-          path: site
+          path: dist
   publiceer:
     needs: bouw
     runs-on: ubuntu-latest

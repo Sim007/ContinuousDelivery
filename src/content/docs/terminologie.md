@@ -1,4 +1,6 @@
-# Terminologie
+---
+title: "Terminologie"
+---
 
 | Term | Betekenis |
 |---|---|

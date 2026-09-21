@@ -1,4 +1,6 @@
-# Subdomein binnen enterprise met maatwerksoftware
+---
+title: "Subdomein binnen enterprise met maatwerksoftware"
+---
 
 ## Verhaal
 

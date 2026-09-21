@@ -1,7 +1,10 @@
-# Showcases
+---
+title: "Showcases"
+---
 
-!!! note "In ontwikkeling"
-    Dit is een levend document. Pagina's groeien mee.
+:::note[In ontwikkeling]
+Dit is een levend document. Pagina's groeien mee.
+:::
 
 De showcase staat naast het verhaal. Hij laat het wat en hoe zien op de gemaakte keuzes.
 
