@@ -1,4 +1,6 @@
-# Het model
+---
+title: "Het model"
+---
 
 ## Kern
 
@@ -32,7 +34,7 @@ De keten, elke schakel een keuze:
 
 ## Assen
 
-![De assen van het model](assen.svg)
+![De assen van het model](/assen.svg)
 
 Mijn opinie staat rechts, waar hij een pool is. Waar hij geen pool is, staat dat erbij.
 

@@ -1,4 +1,6 @@
-# Continuous delivery
+---
+title: "Continuous delivery"
+---
 
 Het model bestaat uit assen. Elke as heeft twee polen. Op elke as staat mijn opinie: mijn strong belief.
 

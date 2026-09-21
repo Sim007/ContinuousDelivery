@@ -1,4 +1,6 @@
-# Open punten
+---
+title: "Open punten"
+---
 
 *Wat nog open staat. Iedereen mag het zien, altijd. Open punten van een scenario staan in dat scenario.*
 

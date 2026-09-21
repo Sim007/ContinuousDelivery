@@ -1,4 +1,6 @@
-# Scenario's
+---
+title: "Scenario's"
+---
 
 Een scenario is een set posities op de assen: bij randvoorwaarden gegeven, bij startingpoints mijn opinie. Elk scenario is zelfstandig te lezen met [het model](../model.md).
 
