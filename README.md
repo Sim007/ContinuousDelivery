@@ -4,6 +4,8 @@ De site: https://sim007.github.io/ContinuousDelivery/
 
 Markdown is de bron. De site wordt er automatisch van gemaakt.
 
+Licentie: [MIT](LICENSE).
+
 ## Bewerken
 
 - De tekst staat in `docs/`, één markdown-bestand per pagina.
