@@ -3,6 +3,9 @@ site_description: Een model met assen, mijn opinie en scenario's met werkende sh
 site_url: https://sim007.github.io/ContinuousDelivery/
 repo_url: https://github.com/Sim007/ContinuousDelivery
 repo_name: Sim007/ContinuousDelivery
+copyright: >
+  Johannes Sim — tekst <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>,
+  code <a href="https://github.com/Sim007/ContinuousDelivery/blob/main/LICENSE">MIT</a>
 theme:
   name: material
   language: nl

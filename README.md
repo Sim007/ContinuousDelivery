@@ -4,7 +4,7 @@ De site: https://sim007.github.io/ContinuousDelivery/
 
 Markdown is de bron. De site wordt er automatisch van gemaakt.
 
-Licentie: [MIT](LICENSE).
+Licentie: de tekst [CC BY 4.0](LICENSE-docs), de code [MIT](LICENSE) — zie onderaan.
 
 ## Bewerken
 
@@ -56,3 +56,16 @@ Een bestand `docs/CNAME` met de domeinnaam, de DNS-instelling bij je provider, e
 ## Versies
 
 De versies in `requirements.txt` staan bewust vast. MkDocs 2.0 is niet uitwisselbaar met de huidige plugins; niet zomaar upgraden.
+
+## Licentie
+
+De tekst en de code hebben elk hun eigen licentie.
+
+- Alles in `docs/` — het model, de scenario's, de teksten en de afbeeldingen — staat
+  onder [CC BY 4.0](LICENSE-docs). Hergebruiken, bewerken en verspreiden mag, ook
+  commercieel, mits met naamsvermelding.
+- De code — `hooks/`, `.github/`, `mkdocs.yml`, `requirements.txt` — staat onder
+  [MIT](LICENSE).
+
+Naamsvermelding, bijvoorbeeld: Johannes Sim, *Continuous delivery*,
+https://sim007.github.io/ContinuousDelivery/, CC BY 4.0.
