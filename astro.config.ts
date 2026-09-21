@@ -57,7 +57,20 @@ export default defineConfig({
             { label: "Startup", slug: "scenarios/startup" },
           ],
         },
-        { label: "Showcases", slug: "showcases" },
+        {
+          label: "Showcase practice",
+          items: [
+            {
+              label: "Overzicht",
+              slug: "showcase-practice",
+              translations: { en: "Overview" },
+            },
+            {
+              label: "Contract-based testing",
+              slug: "showcase-practice/contract-based-testing",
+            },
+          ],
+        },
         {
           label: "Verhaal en presentatie",
           slug: "verhaal-presentatie",

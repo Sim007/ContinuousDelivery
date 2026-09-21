@@ -9,5 +9,4 @@ Randvoorwaarden krijg je, startingpoints kies je. Een scenario is een set positi
 Niet "dit werkt niet omdat", maar **als we volgens deze principes werken, kan het wel.**
 
 - [Het model](model.md) — de assen, met mijn opinie
-- [Scenario's](scenarios/index.md) — het model ingevuld
-- [Showcases](showcases.md) — werkende code naast het verhaal
+- [Scenario's](scenarios/index.md) — het model ingevuld, elk als werkende showcase

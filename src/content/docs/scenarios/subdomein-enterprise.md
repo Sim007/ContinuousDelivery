@@ -112,7 +112,9 @@ De squad heeft één gesprekspartner en één set guardrails.
 Effectief: vaker en in kleinere stappen leveren, eerder zien of het werkt bij de gebruiker.
 Efficiënt: niemand denkt opnieuw na over de weg naar productie.
 
-## Hoe — showcase
+## Showcase
+
+*Werkende code: nog toe te voegen.*
 
 Wat moet draaien:
 - Standaard stack en pipeline, voor meer dan één deelsysteem.

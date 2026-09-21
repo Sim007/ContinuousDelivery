@@ -16,6 +16,7 @@ title: "Terminologie"
 | Invulling | Het resultaat van de route. |
 | Right practice | Goed in deze situatie. Niet best practice. |
 | Fabriek | De organisatie én AI; een verzameling right practices. |
+| Showcase practice | Eén right practice als werkende code. |
 | Product | Datgene wat op productie draait. |
 | Output | De software. |
 | Outcome | Wat het voor de gebruiker oplevert. |
