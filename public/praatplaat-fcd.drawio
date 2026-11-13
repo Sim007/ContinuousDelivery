@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="praatplaat-002" name="Praatplaat 0.0.2">
+    <mxGraphModel dx="1768" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="940" background="#F5F6F8" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c2" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=30;fontStyle=1;fontColor=#15181E;" value="Praatplaat: Full Circle Delivery (FCD) 0.8.10" vertex="1">
+          <mxGeometry height="44" width="1300" x="40" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#DCE8F5;strokeWidth=14;" value="" vertex="1">
+          <mxGeometry height="440" width="440" x="570" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontColor=#15181E;" value="&lt;b style=&quot;font-size: 22px; color: rgb(29, 95, 168);&quot;&gt;samen · balans&lt;/b&gt;&lt;br&gt;het product is nooit af&lt;br&gt;&lt;i&gt;niet óf, maar én&lt;/i&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="650" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=#1D5FA8;fontColor=#15181E;fontSize=16;fontStyle=1;" value="Intentie" vertex="1">
+          <mxGeometry height="54" width="160" x="710" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=#1D5FA8;fontColor=#15181E;fontSize=16;fontStyle=1;" value="Proces" vertex="1">
+          <mxGeometry height="54" width="160" x="930" y="439" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=#1D5FA8;fontColor=#15181E;fontSize=16;fontStyle=1;" value="Product" vertex="1">
+          <mxGeometry height="54" width="160" x="710" y="662" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=#1D5FA8;fontColor=#15181E;fontSize=16;fontStyle=1;" value="Leren" vertex="1">
+          <mxGeometry height="54" width="160" x="490" y="439" as="geometry" />
+        </mxCell>
+        <mxCell id="c36" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFF3D6;strokeColor=#B7791F;fontColor=#15181E;fontSize=13;" value="&lt;b&gt;Objective&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="160" x="710" y="152" as="geometry" />
+        </mxCell>
+        <mxCell id="c39" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFF3D6;strokeColor=#B7791F;fontColor=#15181E;fontSize=13;" value="&lt;b&gt;KPI&lt;/b&gt;" vertex="1">
+          <mxGeometry height="44" width="160" x="710" y="726" as="geometry" />
+        </mxCell>
+        <mxCell id="c40" parent="1" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=#525866;fontStyle=1;" value="TRANSPARANT — ZICHTBAAR" vertex="1">
+          <mxGeometry height="20" width="220" x="680" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="c41" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFF3D6;strokeColor=#B7791F;fontColor=#15181E;fontSize=13;" value="&lt;b&gt;Dashboard&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="150" x="715" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="c43" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=#525866;fontStyle=1;" value="PERSPECTIEVEN" vertex="1">
+          <mxGeometry height="20" width="160" x="120" y="238" as="geometry" />
+        </mxCell>
+        <mxCell id="c44" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;" value="Team" vertex="1">
+          <mxGeometry height="34" width="190" x="120" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="c45" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;" value="Agile / DevOps" vertex="1">
+          <mxGeometry height="34" width="190" x="120" y="386" as="geometry" />
+        </mxCell>
+        <mxCell id="c46" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;" value="Continuous Delivery" vertex="1">
+          <mxGeometry height="34" width="190" x="120" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="c47" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;" value="Testen" vertex="1">
+          <mxGeometry height="34" width="190" x="120" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="c48" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;" value="Kwaliteit" vertex="1">
+          <mxGeometry height="34" width="190" x="120" y="518" as="geometry" />
+        </mxCell>
+        <mxCell id="c49" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;" value="Architectuur" vertex="1">
+          <mxGeometry height="34" width="190" x="120" y="562" as="geometry" />
+        </mxCell>
+        <mxCell id="c66" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=#525866;fontStyle=1;" value="VISIE" vertex="1">
+          <mxGeometry height="20" width="171" x="1235" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="c67" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#DCE8F5;strokeColor=#1D5FA8;fontColor=#15181E;align=left;verticalAlign=top;spacing=14;fontSize=13;" value="&lt;b style=&quot;font-size:16px&quot;&gt;Visie — waarom (kompas)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Samen werken we voor de gebruiker; die moet senang zijn, nu en later.&lt;br&gt;Dat wordt hij door het product te gebruiken.&lt;br&gt;Het product ontstaat uit intentie en proces, in balans.&lt;br&gt;Wat het gebruik ons leert, voedt de volgende intentie.&lt;br&gt;Het product is nooit af." vertex="1">
+          <mxGeometry height="200" width="360" x="1235" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="deliv_box" parent="1" vertex="1" value="" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#15181E;strokeWidth=2;"><mxGeometry x="1220" y="378" width="390" height="540" as="geometry" /></mxCell><mxCell id="c68" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#E3F1EA;strokeColor=#1F7A5A;fontColor=#15181E;align=left;verticalAlign=top;spacing=14;fontSize=13;" value="&lt;b style=&quot;font-size:16px&quot;&gt;     Het FCD-model&lt;/b&gt;&lt;br&gt;&lt;br&gt;Eén taal: de bouwstenen van jouw FCD, beschreven en per perspectief geplaatst. Business, IT en teams praten over hetzelfde. Met twee voorbeelden: klassiek en DevOps." vertex="1">
+          <mxGeometry height="148" width="340" x="1254" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="c69" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FBEADF;strokeColor=#A84A14;fontColor=#15181E;align=left;verticalAlign=top;spacing=14;fontSize=13;" value="&lt;b style=&quot;font-size:16px&quot;&gt;     Jouw FCD-model&lt;/b&gt;&lt;br&gt;&lt;br&gt;Door vraag en antwoord: waar je staat, waar je heen wilt en welk perspectief aandacht nodig heeft. Vastgelegd in een declaratief bestand: wat en waarom, reproduceerbaar." vertex="1">
+          <mxGeometry height="148" width="340" x="1254" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="c70" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ECE6F5;strokeColor=#5B3E96;fontColor=#15181E;align=left;verticalAlign=top;spacing=14;fontSize=13;" value="&lt;b style=&quot;font-size:16px&quot;&gt;     Jouw FCD-model als werkende showcase&lt;/b&gt;&lt;br&gt;&lt;br&gt;Je ziet hoe het kan werken en waar wijzigingen nodig zijn." vertex="1">
+          <mxGeometry height="148" width="340" x="1254" y="754" as="geometry" />
+        </mxCell>
+        <mxCell id="c71" edge="1" parent="1" source="c67" style="html=1;strokeColor=#7A808C;strokeWidth=2.5;fontSize=12;fontColor=#525866;endArrow=block;endFill=1;" target="deliv_box" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQGF0P12ZY0c34lQcWy_-1" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;" value="Domein" vertex="1">
+          <mxGeometry height="34" width="190" x="120" y="296" as="geometry" />
+        </mxCell>
+        <mxCell id="CQGF0P12ZY0c34lQcWy_-2" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;" value="AI" vertex="1">
+          <mxGeometry height="34" width="190" x="120" y="694" as="geometry" />
+        </mxCell>
+      <mxCell id="cyc0" edge="1" parent="1" source="c6" target="c7" value="" style="curved=1;html=1;strokeColor=#1D5FA8;strokeWidth=3;endArrow=block;endFill=1;"><mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="946" y="314" /></Array></mxGeometry></mxCell><mxCell id="cyc1" edge="1" parent="1" source="c7" target="c8" value="" style="curved=1;html=1;strokeColor=#1D5FA8;strokeWidth=3;endArrow=block;endFill=1;"><mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="946" y="626" /></Array></mxGeometry></mxCell><mxCell id="cyc2" edge="1" parent="1" source="c8" target="c10" value="" style="curved=1;html=1;strokeColor=#1D5FA8;strokeWidth=3;endArrow=block;endFill=1;"><mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="634" y="626" /></Array></mxGeometry></mxCell><mxCell id="cyc3" edge="1" parent="1" source="c10" target="c6" value="" style="curved=1;html=1;strokeColor=#1D5FA8;strokeWidth=3;endArrow=block;endFill=1;"><mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="634" y="314" /></Array></mxGeometry></mxCell><mxCell id="img_klant" parent="1" vertex="1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MCA4MCI+PHBhdGggZD0iTTE0IDc4IFExNCA1NCA0MCA1NCBRNjYgNTQgNjYgNzggWiIgZmlsbD0iIzFENUZBOCIvPjxjaXJjbGUgY3g9IjQwIiBjeT0iMzAiIHI9IjIyIiBmaWxsPSIjRkZENDVDIiBzdHJva2U9IiNDOTk3MUEiIHN0cm9rZS13aWR0aD0iMS41Ii8+PGNpcmNsZSBjeD0iMzIiIGN5PSIyNSIgcj0iMi44IiBmaWxsPSIjMTUxODFFIi8+PGNpcmNsZSBjeD0iNDgiIGN5PSIyNSIgcj0iMi44IiBmaWxsPSIjMTUxODFFIi8+PHBhdGggZD0iTTI4IDM0IFE0MCA0NyA1MiAzNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTUxODFFIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjI1IiBjeT0iMzQiIHI9IjMuNSIgZmlsbD0iI0Y0QTNBMyIgb3BhY2l0eT0iMC43Ii8+PGNpcmNsZSBjeD0iNTUiIGN5PSIzNCIgcj0iMy41IiBmaWxsPSIjRjRBM0EzIiBvcGFjaXR5PSIwLjciLz48L3N2Zz4=;"><mxGeometry x="708" y="390" width="80" height="80" as="geometry" /></mxCell><mxCell id="img_cadeau" parent="1" vertex="1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MCA4MCI+PHJlY3QgeD0iMTIiIHk9IjM4IiB3aWR0aD0iNTYiIGhlaWdodD0iMzgiIHJ4PSIzIiBmaWxsPSIjRTQ1NzJFIi8+PHJlY3QgeD0iOCIgeT0iMjgiIHdpZHRoPSI2NCIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiNGMDZBNDUiLz48cmVjdCB4PSIzNSIgeT0iMjgiIHdpZHRoPSIxMCIgaGVpZ2h0PSI0OCIgZmlsbD0iI0ZGRDQ1QyIvPjxwYXRoIGQ9Ik00MCAyOCBDMjYgOCAxMiAyMCAyNiAyNyBaIiBmaWxsPSIjRkZENDVDIiBzdHJva2U9IiNDOTk3MUEiIHN0cm9rZS13aWR0aD0iMS41Ii8+PHBhdGggZD0iTTQwIDI4IEM1NCA4IDY4IDIwIDU0IDI3IFoiIGZpbGw9IiNGRkQ0NUMiIHN0cm9rZT0iI0M5OTcxQSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz48Y2lyY2xlIGN4PSI0MCIgY3k9IjI3IiByPSI0LjUiIGZpbGw9IiNDOTk3MUEiLz48L3N2Zz4=;"><mxGeometry x="800" y="390" width="80" height="80" as="geometry" /></mxCell><mxCell id="cap_klant" parent="1" vertex="1" value="gebruiker is senang" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=#525866;"><mxGeometry x="684" y="472" width="114" height="20" as="geometry" /></mxCell><mxCell id="cap_cadeau" parent="1" vertex="1" value="het product" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=#525866;"><mxGeometry x="800" y="472" width="80" height="20" as="geometry" /></mxCell><mxCell id="p_security" parent="1" vertex="1" value="Security" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;"><mxGeometry x="120" y="606" width="190" height="34" as="geometry" /></mxCell><mxCell id="p_leeg" parent="1" vertex="1" value="" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;strokeColor=#525866;fontColor=#15181E;dashed=1;dashPattern=6 4;"><mxGeometry x="120" y="650" width="190" height="34" as="geometry" /></mxCell><mxCell id="sub_coe" parent="1" vertex="1" value="Per perspectief een kader: de guardrails voor AI. Comply or explain." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=13;fontStyle=2;fontColor=#15181E;"><mxGeometry x="120" y="260" width="440" height="20" as="geometry" /></mxCell><mxCell id="subtitle" parent="1" vertex="1" value="AI needs delivery. Delivery needs AI." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=20;fontStyle=2;fontColor=#1D5FA8;"><mxGeometry x="40" y="74" width="800" height="30" as="geometry" /></mxCell><mxCell id="deliv_lbl" parent="1" vertex="1" value="DELIVERABLES VOOR JOUW FCD" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontFamily=Helvetica;fontSize=13;fontStyle=1;fontColor=#15181E;"><mxGeometry x="1240" y="392" width="350" height="22" as="geometry" /></mxCell><mxCell id="badge1" parent="1" vertex="1" value="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#15181E;strokeColor=#15181E;fontColor=#FFFFFF;fontSize=16;fontStyle=1;"><mxGeometry x="1240" y="434" width="32" height="32" as="geometry" /></mxCell><mxCell id="badge2" parent="1" vertex="1" value="2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#15181E;strokeColor=#15181E;fontColor=#FFFFFF;fontSize=16;fontStyle=1;"><mxGeometry x="1240" y="598" width="32" height="32" as="geometry" /></mxCell><mxCell id="badge3" parent="1" vertex="1" value="3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#15181E;strokeColor=#15181E;fontColor=#FFFFFF;fontSize=16;fontStyle=1;"><mxGeometry x="1240" y="762" width="32" height="32" as="geometry" /></mxCell></root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -114,7 +114,7 @@ Efficiënt: niemand denkt opnieuw na over de weg naar productie.
 
 ## Showcase
 
-*Werkende code: nog toe te voegen.*
+*Werkende code: nog toe te voegen.* Ontwerp: [Ontwerp showcase](subdomein-enterprise-ontwerp.md).
 
 Wat moet draaien:
 - Standaard stack en pipeline, voor meer dan één deelsysteem.
