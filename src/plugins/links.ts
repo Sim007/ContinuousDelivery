@@ -32,6 +32,14 @@ export function remarkLinks({ base }: Opties): ReturnType<Plugin<[Opties], Root>
   const schoon = base.replace(/\/$/, "");
 
   return (tree: Root, file: VFile) => {
+    // Links naar bestanden in public/ beginnen met een /; de base komt ervoor.
+    visit(tree, "link", (node) => {
+      const doel = node.url.split("#")[0] ?? "";
+      if (doel.endsWith(".md") || !doel.startsWith("/") || doel.startsWith("//")) return;
+      if (doel.startsWith(`${schoon}/`)) return;
+      node.url = `${schoon}${node.url}`;
+    });
+
     const map = mapVan(file);
     if (map === null) return;
 

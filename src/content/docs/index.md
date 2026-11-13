@@ -8,7 +8,9 @@ Iedereen wil sneller ontwikkelen met artificial intelligence (AI). Maar wat heb 
 
 Niet óf, maar én.
 
-![Praatplaat Full Circle Delivery (FCD) 0.8.10](/praatplaat-fcd.png)
+[![Praatplaat Full Circle Delivery (FCD) 0.8.10](/praatplaat-fcd.png)](/praatplaat-fcd.png "Klik voor de praatplaat op ware grootte")
+
+*Klik op de plaat voor ware grootte.*
 
 ## Visie
 
