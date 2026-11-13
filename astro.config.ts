@@ -17,11 +17,11 @@ export default defineConfig({
   integrations: [
     starlight({
       title: {
-        nl: "Continuous delivery",
-        en: "Continuous delivery",
+        nl: "Full Circle Delivery",
+        en: "Full Circle Delivery",
       },
       description:
-        "Een model met assen, mijn opinie en scenario's met werkende showcases.",
+        "AI needs delivery. Delivery needs AI. Een model met assen, mijn opinie en scenario's met werkende showcases.",
       defaultLocale: "root",
       locales: {
         root: { label: "Nederlands", lang: "nl" },
@@ -53,6 +53,11 @@ export default defineConfig({
               label: "Subdomein binnen enterprise",
               slug: "scenarios/subdomein-enterprise",
               translations: { en: "Subdomain within an enterprise" },
+            },
+            {
+              label: "Ontwerp subdomein",
+              slug: "scenarios/subdomein-enterprise-ontwerp",
+              translations: { en: "Design subdomain" },
             },
             { label: "Startup", slug: "scenarios/startup" },
           ],

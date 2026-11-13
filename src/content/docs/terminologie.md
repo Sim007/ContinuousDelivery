@@ -4,7 +4,17 @@ title: "Terminologie"
 
 | Term | Betekenis |
 |---|---|
-| Continuous delivery | De term voor het geheel. Niet software development lifecycle. |
+| Full Circle Delivery (FCD) | De term voor het geheel: de hele cirkel rond, niet alleen continuous delivery. Niet software development lifecycle. |
+| Cirkel | Intentie → proces → product → leren → weer intentie. |
+| Perspectief | Een blik op de cirkel, met een eigen kader. |
+| Kader | De guardrails van een perspectief. Niet standaard (keurslijf), niet afspraak (vrijblijvend). |
+| Comply or explain | Je volgt het kader, of je legt uit waarom niet. |
+| FCD-model | Eén taal: de bouwstenen, per perspectief geplaatst. Niet CD-model. |
+| Jouw FCD-model | Waar je staat, waar je heen wilt, welk perspectief aandacht nodig heeft. |
+| Declaratief bestand | Jouw FCD-model vastgelegd: wat en waarom, reproduceerbaar. |
+| Gebruiker | Wie het product gebruikt. Niet klant: dat is de business. |
+| Senang | Op je gemak, tevreden. Nu en later. |
+| Continuous delivery | Een perspectief binnen FCD: er is altijd een werkende weg naar productie. |
 | As | Een keuze met twee polen. |
 | Randvoorwaarde | As waarop de positie gegeven is. |
 | Knock-out | Randvoorwaarde waarbij het model niet van toepassing is aan de verkeerde kant. |
